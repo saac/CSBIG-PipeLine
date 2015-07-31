@@ -4,4 +4,6 @@ This is the official pipeline of Computational Systems Biology/Integrative Genom
 Here we place the source code of the software modules corresponding to our tools to Network Analysis, in secuencial way.
 You can find code in python, R and shell-scrpit, even in C++.
 
+If you use this software please quotes the group. (http://csbig.inmegen.gob.mx)
+
 
